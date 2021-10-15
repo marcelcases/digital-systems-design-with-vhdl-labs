@@ -1,5 +1,6 @@
 ---
 layout: post
+session: 5
 title: 'A creeping line in VHDL'
 author: marcel
 category: projects
@@ -9,13 +10,18 @@ date: 2018-10-17 15:00:00 +03:00
 featured: true
 ---
 
+# Lab 5: A creeping line in VHDL
+
 ## Introduction
+
 This project consists in the design, simulation and implementation in VHDL of a **creeping line**. The content will be multiplexed and **shown on the 7-segment displays** of the Nexys 4 board.
 
 ## Workflow
+
 The hardware description of the creeping line consists in components and concurrent statements that run together at the top level of the project. They are a **32-bit shift register**, a **clock divider**, an **up-counter** and a **look-up table**. A **testbench** is described in order to perform a **simulation**.
 
 ## Contents
+
 ```
 1 Introduction . . . . . . . . . . . . . . . . . 1
 1.1 Aim  . . . . . . . . . . . . . . . . . . . . 1
@@ -39,5 +45,7 @@ The hardware description of the creeping line consists in components and concurr
 4 Conclusion . . . . . . . . . . . . . . . . . .11
 References . . . . . . . . . . . . . . . . . . .12
 ```
+
+## Report
 
 Check out the [report](report.pdf)
