@@ -8,7 +8,7 @@ Assignments of Digital Systems Design With VHDL
 Marcel Cases i Freixenet &lt;marcel.cases@estudiantat.upc.edu&gt;
 
 **Course**  
-Digital Systems Design With VHDL (DSDWV-CSE)
+Digital Systems Design With VHDL (DSDWV-CSE)  
 School of Information Technologies - Tallinn University of Technology. TalTech  
 Autumn 2018
 
